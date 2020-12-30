@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamPatcher", "SteamPatcher.csproj", "{1F432E66-0BBA-48B2-A53F-719167D89520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F432E66-0BBA-48B2-A53F-719167D89520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F432E66-0BBA-48B2-A53F-719167D89520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F432E66-0BBA-48B2-A53F-719167D89520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F432E66-0BBA-48B2-A53F-719167D89520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6738DD14-0179-4459-A863-70CBFB090BE1}
+	EndGlobalSection
+EndGlobal
